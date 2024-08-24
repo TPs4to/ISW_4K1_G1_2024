@@ -1,4 +1,4 @@
-# ISW GRUPO 1
+# ISW 4K1 GRUPO 1
 
 ## Integrantes
 
@@ -29,7 +29,7 @@
 ## Reglas de nombrado
 
 ### Presentaciones
-> PPT<<X\>>\_U<<X\>>.pdf
+> <<XX\>>\_U<<X\>>\_<<tema\>>.pdf
 
 ### Resumenes
 > RESUMEN\_U<<X\>>.<<ext\>> donde ext puede ser (pdf, docx, md)
@@ -48,14 +48,12 @@
 
 
 ## Glosario
-- PPT: Presentacion
+- X: Numero entero
 - TI: Trabajo investigacion
 - TP: Trabajo practico
-- X: numero entero
-- tema: tema sobre el que trata el ejercicio
+- tema: Tema sobre el que trata el ejercicio/presentacion
 - alumno: quien resolvio el ejercicio
 
 ## Criterio de linea base
 
-Despues de la entrega de cada trabajo practico
-
+Despues de la entrega de cada trabajo practico, cuando la version entregada se sube al repositorio.
