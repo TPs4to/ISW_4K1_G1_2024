@@ -52,7 +52,7 @@
 - TI: Trabajo investigacion
 - TP: Trabajo practico
 - tema: Tema sobre el que trata el ejercicio/presentacion
-- alumno: quien resolvio el ejercicio
+- alumno: Nombre de quien resolvio el ejercicio
 
 ## Criterio de linea base
 
