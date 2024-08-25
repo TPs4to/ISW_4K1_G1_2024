@@ -11,6 +11,10 @@
 - Gaston Demaria 89656
 - Ezequiel Tapia 90026
 
+## Link de acceso publico al repositorio
+
+https://github.com/TPs4to/ISW_4K1_G1_2024
+
 ## Estructura del repositorio
 
 ```
