@@ -67,22 +67,26 @@
 
 ### Trabajos practicos
 > TP<<num. trabajo\>>.pdf
-> - Ubicacion: `/trabajos/practicos_evaluables`
-> - Ejemplo: el trabajo practivo 4 se llamaria `TP04.pdf`
-
-
+> - Ubicacion: `/trabajos/practicos_evaluables/TP<<num. trabajo>>`
+> - Ejemplo: el trabajo practivo 4 se llamaria `TP04.pdf` y estaria en `/trabajos/practicos_evaluables/TP04`
 
 
 ## Glosario
-- num. presentacion: numero secuencial de 2 digitos (01, 02, 03...)
+- num. presentacion: numero secuencial de 2 digitos (01, 02, 03...) 
 - num. unidad: numero secuencial de 2 digitos (01, 02, 03...)
 - num. ejercicio: numero secuencial (1, 2, 3, 4)  
+- num. trabajo: sumero secuencial de 2 digitos (01, 02, 03...)
 - TI: Trabajo investigacion
 - TP: Trabajo practico
 - tema: Tema sobre el que trata el ejercicio/presentacion/libro
 - alumno: Apellido de quien resolvio el ejercicio
 - autor: Apellido del autor
+- U: Unidad
 
 ## Criterio de linea base
 
-Despues de la entrega de cada trabajo practico, cuando la version entregada se sube al repositorio.
+Despues de la entrega de cada trabajo practico, cuando la version entregada se sube al repositorio y todos los integrantes del grupo estan de acuerdo con la creacion de la nueva linea base. NO debe pasar mas de una semana entre la entrega del trabajo practico y la creacion de su linea base correspondiente.
+
+### Nombre de linea base 
+> tp<<num. trabajo>>_entregado
+> - Nota: el nombre no debe contener ninguna mayuscula
