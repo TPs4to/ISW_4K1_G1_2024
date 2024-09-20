@@ -67,6 +67,7 @@
 
 ### Trabajos practicos
 > TP<<num. trabajo\>>.pdf
+> - Nota: en caso de que se requieran subir multiples archivos entregables se debera usar eta nomenclatura para cada archivos adicional: TP<<num. trabajo\>>_<<nombre archivo\>>.pdf
 > - Ubicacion: `/trabajos/practicos_evaluables/TP<<num. trabajo>>`
 > - Ejemplo: el trabajo practivo 4 se llamaria `TP04.pdf` y estaria en `/trabajos/practicos_evaluables/TP04`
 
@@ -82,11 +83,12 @@
 - alumno: Apellido de quien resolvio el ejercicio
 - autor: Apellido del autor
 - U: Unidad
+- nombre archivo: debe ser corto y significativo para identificarlo facilmente entre el resto de los arvhivos entregados en un trabajo practico
 
 ## Criterio de linea base
 
 Despues de la entrega de cada trabajo practico, cuando la version entregada se sube al repositorio y todos los integrantes del grupo estan de acuerdo con la creacion de la nueva linea base. NO debe pasar mas de una semana entre la entrega del trabajo practico y la creacion de su linea base correspondiente.
 
 ### Nombre de linea base 
-> tp<<num. trabajo>>_entregado
+> tp<<num. trabajo\>>_entregado
 > - Nota: el nombre no debe contener ninguna mayuscula
