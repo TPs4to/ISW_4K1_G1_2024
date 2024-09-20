@@ -11,52 +11,77 @@
 - Gaston Demaria 89656
 - Ezequiel Tapia 90026
 
-## Link de acceso publico al repositorio
-
-https://github.com/TPs4to/ISW_4K1_G1_2024
-
 ## Estructura del repositorio
 
 ```
 /
-├── README.md
-├── ejercicios/
+├── ejercicios_resueltos/
 ├── recursos/
-│   ├── bibliografia/
-│   ├── presentaciones/
-│   └── resumenes/
-└── trabajos/
-    ├── investigacion/
-    └── practicos/
+│   ├── bibliografia/
+│   ├── guias/
+│   ├── presentaciones/
+│   └── resumenes/
+├── trabajos/
+|   ├── investigacion/
+|   └── practicos_evaluables/
+├── 2024 4K1 Cronograma.pdf
+├── 2024 Planificacion.pdf 
+└── README.md
 ```
 
 ## Reglas de nombrado
 
 ### Presentaciones
-> <<XX\>>\_U<<X\>>\_<<tema\>>.pdf
+> <<num. presentacion\>>\_<<tema\>>.pdf
+> - Ubicacion: `/recursos_catedra/presentaciones`
+> - Ejemplo: la 8va presentacion subida sobre Testing de Software se llamaria `08_Testing de Software.pdf` 
 
 ### Resumenes
-> RESUMEN\_U<<X\>>.<<ext\>> donde ext puede ser (pdf, docx, md)
+> RESUMEN\_U<<num. unidad\>>.pdf
+> - Nota: si abarca mas de una unidad se debe usar esta nomenclatura: RESUMEN\_U<<num. unidad desde\>>-<<num. unidad hasta\>>.pdf
+> - Ubicacion: `/resumenes`
+> - Ejemplo: un resumen de la unidad 3 se llamaria `RESUMEN_U3.pdf`
+> - Ejemplo: un resumen de la unidad 1 a la 3 se llamaria `RESUMEN_U1-3.pdf`
 
 ### Bibliografia
-> <<nombre\>>\_<<autor\>>.pdf
+> <<tema\>>\_<<nombre\>>\_<<autor\>>.pdf
+> - Nota: solo el apellido del autor
+> - Ubicacion: `/recursos_catedra/bibliografia`
+> - Ejemplo: The mythical man-month se llamaria `Ingenieria de Software_The Mythical Man-Month Essays on Software Engineering_Brooks.pdf`
 
-### Ejercicios
-> <<tema\>>\_caso<<x\>>\_<<alumno\>>.pdf
+### Ejercicios resueltos
+> <<tema\>>\_EJER<<num. ejercicio\>>\_<<alumno\>>.pdf
+> - Nota: solo el apellido del alumno
+> - Ubicacion: `/ejercicios_resueltos`
+> - Ejemplo: el tercer ejercicio de user stories se llamaria `User Stories_EJER3_Tapia.pdf`
+
+### Guias de ejercicios
+> ISW_<<nombre guia\>>.pdf
+> - Ubicacion: `/recursos_catedra/guias`
+> - Ejemplo: la guia de trabajos practicos se llamaria `ISW_Guia de Trabajos Practicos.pdf` 
 
 ### Trabajos investigacion
-> TI<<XX\>>.pdf
+> TI<<num. trabajo\>>.pdf
+> - Ubicacion: `/trabajos/investigacion`
+> - Ejemplo: el trabajo de investigacion 2 se llamaria `TI02.pdf`
 
 ### Trabajos practicos
-> TP<<XX\>>.pdf
+> TP<<num. trabajo\>>.pdf
+> - Ubicacion: `/trabajos/practicos_evaluables`
+> - Ejemplo: el trabajo practivo 4 se llamaria `TP04.pdf`
+
+
 
 
 ## Glosario
-- X: Numero entero
+- num. presentacion: numero secuencial de 2 digitos (01, 02, 03...)
+- num. unidad: numero secuencial de 2 digitos (01, 02, 03...)
+- num. ejercicio: numero secuencial (1, 2, 3, 4)  
 - TI: Trabajo investigacion
 - TP: Trabajo practico
-- tema: Tema sobre el que trata el ejercicio/presentacion
-- alumno: Nombre de quien resolvio el ejercicio
+- tema: Tema sobre el que trata el ejercicio/presentacion/libro
+- alumno: Apellido de quien resolvio el ejercicio
+- autor: Apellido del autor
 
 ## Criterio de linea base
 
