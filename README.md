@@ -50,7 +50,8 @@
 > - Ejemplo: The mythical man-month se llamaria `Ingenieria de Software_The Mythical Man-Month Essays on Software Engineering_Brooks.pdf`
 
 ### Ejercicios resueltos
-> <<tema\>>\_EJER<<num. ejercicio\>>\_<<alumno\>>.pdf
+> <<tema\>>\_EJER<<num. ejercicio\>>\_<<alumno\>>.<<ext.\>>
+> - Nota: donde ext. es la extension del archivo y puede ser: pdf, jpg 
 > - Nota: solo el apellido del alumno
 > - Ubicacion: `/ejercicios_resueltos`
 > - Ejemplo: el tercer ejercicio de user stories se llamaria `User Stories_EJER3_Tapia.pdf`
