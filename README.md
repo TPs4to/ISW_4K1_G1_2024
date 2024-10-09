@@ -51,7 +51,7 @@
 
 ### Ejercicios resueltos
 > <<tema\>>\_EJER<<num. ejercicio\>>\_<<alumno\>>.<<ext.\>>
-> - Nota: donde ext. es la extension del archivo y puede ser: pdf, jpg 
+> - Nota: donde ext. es la extension del archivo y puede ser: pdf, jpg, docx 
 > - Nota: solo el apellido del alumno
 > - Ubicacion: `/ejercicios_resueltos`
 > - Ejemplo: el tercer ejercicio de user stories se llamaria `User Stories_EJER3_Tapia.pdf`
